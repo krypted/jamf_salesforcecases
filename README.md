@@ -14,35 +14,35 @@ Please follow below steps to install and configure package:
 4. Choose Authentication Protocol as Password Authentication
 5. Enter username and password for your Jamf Pro instance respectively
 6. Go to case Layouts.
-  a.     Add ’Sync Device' button on the page.
-  b.   Add below fields on case page layout.
+..  a.     Add ’Sync Device' button on the page.
+..  b.   Add below fields on case page layout.
   
-     i Column :
-       1.   JSS ID
-       2.  UDID
-       3.  Model
-       4.  Model Identifier
-       5.  Available Space
-       6.  Last Inventory Update
-       7.  Date/Time Opened
-       8.  Product
-       9.  Potential Liability
-       10.  Subject
-       11.  Description
-       12.  Custom Links
+..     i Column :
+..       1.   JSS ID
+..       2.  UDID
+..       3.  Model
+..       4.  Model Identifier
+..       5.  Available Space
+..       6.  Last Inventory Update
+..       7.  Date/Time Opened
+..       8.  Product
+..       9.  Potential Liability
+..       10.  Subject
+..       11.  Description
+..       12.  Custom Links
  
-ii. Available Columns.
-     1.Mobile Device Name
-     2.Full Name
-     3. Warranty Expiration
-     4.Wi-Fi MAC Address
-     4. IP Address     	
-     5. Site
-     6. Asset
-     7. Building
-     8. Date/Time Closed
-     9. Engineering Req Number
-     10. SLA Violation
+..ii. Available Columns.
+..     1.Mobile Device Name
+..    2.Full Name
+..     3. Warranty Expiration
+..     4.Wi-Fi MAC Address
+..     4. IP Address     	
+..     5. Site
+..     6. Asset
+..     7. Building
+..     8. Date/Time Closed
+..     9. Engineering Req Number
+..     10. SLA Violation
 
 
 # Package Contents (Dev Package)
@@ -59,8 +59,6 @@ Building
 Case
 Custom Field
 CaseMobileDeviceSync
- 
- 
  
 | Name  | Parent Object | Type |
 | ------------- | ------------- | ------------- |
