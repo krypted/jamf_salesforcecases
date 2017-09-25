@@ -69,3 +69,15 @@ CaseMobileDeviceSync
 | Building  | Case  | Custom Field  |
 | CaseMobileDeviceSync  |   | Apex Class  |
 | CaseMobileDeviceSync_Ctrl|   | Apex Class  |
+| Full Name | Case  | Custom Field  |
+| IP Address | Case | Custom Field |
+| Last Inventory Update | Case | Custom Field |
+| Mobile Device Name | Case | Custom Field |
+| Model | Case | Custom Field |
+| Model Identifier | Case | Custom Field |
+| Serial Number | Case | Custom Field |
+| Site | Case | Custom Field |
+| UDID | Case | Custom Field |
+| Warranty Expiration | Case | Custom Field |
+| WiFi MAC Address | Case | Custom Field |
+| Sync Device | Case | Button or Link (to pull information from the Jamf Pro Instance) |
