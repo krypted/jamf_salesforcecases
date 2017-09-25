@@ -2,7 +2,7 @@
 Salesforce Cases Plug-in To Look Devices Up In Jamf Pro
 Updated: September 25, 2017
 
-The following are instructions for installing the crypted integration package. The integration is delivered as a managed package.
+The following are instructions for installing the integration package. The integration is delivered as a managed package.
  
 # Install and Configure package
  
