@@ -60,55 +60,12 @@ Case
 Custom Field
 CaseMobileDeviceSync
  
-#Apex Class: CaseMobileDeviceSync_Ctrl
-Full Name
-Case
-Custom Field
-IP Address
-Case
-Custom Field
-
-JSS ID
-Case
-Custom Field
-Last Inventory Update
-Case
-Custom Field
-
-Mobile Device Name
-Case
-Custom Field
-Model
-Case
-Custom Field
-
-Model Identifier
  
-Case
-Custom Field
-
-Serial Number
  
-Case
-Custom Field
-
-Site
-Case
-Custom Field
-
-UDID
-Case
-Custom Field
-
-Warranty Expiration
-Case
-Custom Field
-
-Wi-Fi MAC Address
-Case
-Custom Field
- 
-Named Credential
-Sync_Device
-Case
-Button or Link
+| Name  | Parent Object | Type |
+| ------------- | ------------- | ------------- |
+| Asset Tag  | Case  | Custom Field  |
+| Available Space  | Case  | Case  |
+| Building  | Case  | Custom Field  |
+| CaseMobileDeviceSync  |   | Apex Class  |
+| CaseMobileDeviceSync_Ctrl|   | Apex Class  |
