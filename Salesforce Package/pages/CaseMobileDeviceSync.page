@@ -1,0 +1,10 @@
+<!------------------
+Initial Creation
+-------------------->
+<apex:page standardController="Case" extensions="CaseMobileDeviceSync_Ctrl" action="{!syncDate}">
+  <apex:pagemessages />
+  <apex:form >
+  <apex:inputHidden value="{!Case.Serial_Number__c}"  />
+  <apex:commandLink value="Go Back" action="{!Cancel}"/>
+  </apex:form>
+</apex:page>
