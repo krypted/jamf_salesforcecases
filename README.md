@@ -18,7 +18,7 @@ Please follow below steps to install and configure package:
 
 ..b.   Add below fields on case page layout.
 
-##Column :
+#Columns:
 
 ..1.   JSS ID
 
