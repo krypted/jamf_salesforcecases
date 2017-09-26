@@ -19,81 +19,42 @@ Please follow below steps to install and configure package:
 # Columns:
 
 1. JSS ID  
-
 2. UDID  
-
 3. Model  
-
 4. Model Identifier 
-
 5. Available Space  
-
 6. Last Inventory Update  
-
 7. Date/Time Opened  
-
 8. Product  
-
 9. Potential Liability  
-
 10. Subject  
-
 11. Description  
-
 12. Custom Links  
 
- 
 # Available Columns.
-1.Mobile Device Name  
-
-2.Full Name  
-
+1. Mobile Device Name  
+2. Full Name  
 3. Warranty Expiration  
-
 4. Wi-Fi MAC Address  
-
 5. IP Address  
-
 6. Site  
-
 7. Asset  
-
 8. Building  
-
 9. Date/Time Closed  
-
 10. Engineering Req Number  
-
 11. SLA Violation  
 
-
 # Package Contents (Dev Package)
-Name
-
-Parent Object
-
-Type
-
-Asset Tag
-
-Case
-
-Custom Field
-
-Available Space
-
-Case
-
-Case
-
-Building
-
-Case
-
-Custom Field
-
-CaseMobileDeviceSync
-
+Name  
+Parent Object  
+Type  
+Asset Tag  
+Case  
+Custom Field  
+Available Space  
+Building  
+Custom Field  
+CaseMobileDeviceSync  
 
 
 | Name  | Parent Object | Type |
