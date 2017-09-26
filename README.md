@@ -3,7 +3,7 @@ Salesforce Cases Plug-in To Look Devices Up In Jamf Pro
 
 The following are instructions for installing the integration package. The integration is delivered as a managed package.
  
-# Install and Configure package
+# Install And Configure The Package In Your Salesforce Instance
  
 Please follow below steps to install and configure package:
 
@@ -47,16 +47,16 @@ Columns used in this tool include the following (likely to grow to a set of opti
 11. SLA Violation  
 
 # Package Contents (Dev Package)
-Name  
-Parent Object  
-Type  
-Asset Tag  
-Case  
-Custom Field  
-Available Space  
-Building  
-Custom Field  
-CaseMobileDeviceSync  
+* Name  
+* Parent Object  
+* Type  
+* Asset Tag  
+* Case  
+* Custom Field  
+* Available Space  
+* Building  
+* Custom Field  
+* CaseMobileDeviceSync  
 
 # Package Objects
 
