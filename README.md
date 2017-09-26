@@ -17,7 +17,9 @@ Please follow below steps to install and configure package:
 8. Add below fields on case page layout.  
 
 # Columns:
+Columns used in this tool include the following (likely to grow to a set of optional columns in the future):
 
+## Current Columns:
 1. JSS ID  
 2. UDID  
 3. Model  
@@ -31,7 +33,7 @@ Please follow below steps to install and configure package:
 11. Description  
 12. Custom Links  
 
-# Available Columns.
+## Available Columns:
 1. Mobile Device Name  
 2. Full Name  
 3. Warranty Expiration  
@@ -56,6 +58,7 @@ Building
 Custom Field  
 CaseMobileDeviceSync  
 
+# Package Objects
 
 | Name  | Parent Object | Type |
 | ------------- | ------------- | ------------- |
