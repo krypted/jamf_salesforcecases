@@ -14,9 +14,9 @@ Please follow below steps to install and configure package:
 5. Enter username and password for your Jamf Pro instance respectively
 6. Go to case Layouts.
 
-⋅⋅*Add ’Sync Device' button on the page.
+⋅⋅* Add ’Sync Device' button on the page.
 
-⋅⋅*Add below fields on case page layout.
+⋅⋅* Add below fields on case page layout.
 
 # Columns:
 
